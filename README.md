@@ -1,4 +1,10 @@
 # Screenshot
+  
+  • instalar dependencias: yarn install 
+  • correr en dev:  yarn run dev 
+  • convertir codigo:  yarn build
+  • correr codigo convertido: yarn start
+
 ![](screenshot.png)
 
 # Resources
