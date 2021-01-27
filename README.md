@@ -1,9 +1,21 @@
 # Screenshot
-  
-  • instalar dependencias: yarn install 
-  • correr en dev:  yarn run dev 
-  • convertir codigo:  yarn build
-  • correr codigo convertido: yarn start
+  <li>
+
+  <ul>
+   • instalar dependencias: yarn install 
+  </ul>
+    <ul>
+    • correr en dev:  yarn run dev 
+  </ul>
+    <ul>
+    • convertir codigo:  yarn build
+  </ul>
+    <ul>
+    • correr codigo convertido: yarn start
+  </ul>
+
+</li>
+
 
 ![](screenshot.png)
 
